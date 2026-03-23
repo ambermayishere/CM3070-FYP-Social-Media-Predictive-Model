@@ -1,0 +1,51 @@
+tweet_id,created_at,text,author_id,username,retweet_count,reply_count,like_count,quote_count
+sample_1,2026-03-22T21:35:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_0,user_0,0,0,0,0
+sample_2,2026-03-22T21:30:45.697963+00:00,People keep talking about #babyboo.,user_1,user_1,2,3,5,1
+sample_3,2026-03-22T21:25:45.697963+00:00,#babyboo opinions are getting intense online.,user_2,user_2,4,6,10,2
+sample_4,2026-03-22T21:20:45.697963+00:00,#babyboo might be the next big trend.,user_3,user_3,6,9,15,3
+sample_5,2026-03-22T21:15:45.697963+00:00,Seeing #babyboo everywhere today.,user_4,user_4,8,12,20,4
+sample_6,2026-03-22T21:10:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_5,user_5,10,0,25,0
+sample_7,2026-03-22T21:05:45.697963+00:00,People keep talking about #babyboo.,user_6,user_6,12,3,30,1
+sample_8,2026-03-22T21:00:45.697963+00:00,#babyboo opinions are getting intense online.,user_7,user_7,14,6,35,2
+sample_9,2026-03-22T20:55:45.697963+00:00,#babyboo might be the next big trend.,user_8,user_8,16,9,40,3
+sample_10,2026-03-22T20:50:45.697963+00:00,Seeing #babyboo everywhere today.,user_9,user_9,18,12,45,4
+sample_11,2026-03-22T20:45:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_0,user_0,0,0,0,0
+sample_12,2026-03-22T20:40:45.697963+00:00,People keep talking about #babyboo.,user_1,user_1,2,3,5,1
+sample_13,2026-03-22T20:35:45.697963+00:00,#babyboo opinions are getting intense online.,user_2,user_2,4,6,10,2
+sample_14,2026-03-22T20:30:45.697963+00:00,#babyboo might be the next big trend.,user_3,user_3,6,9,15,3
+sample_15,2026-03-22T20:25:45.697963+00:00,Seeing #babyboo everywhere today.,user_4,user_4,8,12,20,4
+sample_16,2026-03-22T20:20:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_5,user_5,10,0,25,0
+sample_17,2026-03-22T20:15:45.697963+00:00,People keep talking about #babyboo.,user_6,user_6,12,3,30,1
+sample_18,2026-03-22T20:10:45.697963+00:00,#babyboo opinions are getting intense online.,user_7,user_7,14,6,35,2
+sample_19,2026-03-22T20:05:45.697963+00:00,#babyboo might be the next big trend.,user_8,user_8,16,9,40,3
+sample_20,2026-03-22T20:00:45.697963+00:00,Seeing #babyboo everywhere today.,user_9,user_9,18,12,45,4
+sample_21,2026-03-22T19:55:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_0,user_0,0,0,0,0
+sample_22,2026-03-22T19:50:45.697963+00:00,People keep talking about #babyboo.,user_1,user_1,2,3,5,1
+sample_23,2026-03-22T19:45:45.697963+00:00,#babyboo opinions are getting intense online.,user_2,user_2,4,6,10,2
+sample_24,2026-03-22T19:40:45.697963+00:00,#babyboo might be the next big trend.,user_3,user_3,6,9,15,3
+sample_25,2026-03-22T19:35:45.697963+00:00,Seeing #babyboo everywhere today.,user_4,user_4,8,12,20,4
+sample_26,2026-03-22T19:30:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_5,user_5,10,0,25,0
+sample_27,2026-03-22T19:25:45.697963+00:00,People keep talking about #babyboo.,user_6,user_6,12,3,30,1
+sample_28,2026-03-22T19:20:45.697963+00:00,#babyboo opinions are getting intense online.,user_7,user_7,14,6,35,2
+sample_29,2026-03-22T19:15:45.697963+00:00,#babyboo might be the next big trend.,user_8,user_8,16,9,40,3
+sample_30,2026-03-22T19:10:45.697963+00:00,Seeing #babyboo everywhere today.,user_9,user_9,18,12,45,4
+sample_31,2026-03-22T19:05:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_0,user_0,0,0,0,0
+sample_32,2026-03-22T19:00:45.697963+00:00,People keep talking about #babyboo.,user_1,user_1,2,3,5,1
+sample_33,2026-03-22T18:55:45.697963+00:00,#babyboo opinions are getting intense online.,user_2,user_2,4,6,10,2
+sample_34,2026-03-22T18:50:45.697963+00:00,#babyboo might be the next big trend.,user_3,user_3,6,9,15,3
+sample_35,2026-03-22T18:45:45.697963+00:00,Seeing #babyboo everywhere today.,user_4,user_4,8,12,20,4
+sample_36,2026-03-22T18:40:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_5,user_5,10,0,25,0
+sample_37,2026-03-22T18:35:45.697963+00:00,People keep talking about #babyboo.,user_6,user_6,12,3,30,1
+sample_38,2026-03-22T18:30:45.697963+00:00,#babyboo opinions are getting intense online.,user_7,user_7,14,6,35,2
+sample_39,2026-03-22T18:25:45.697963+00:00,#babyboo might be the next big trend.,user_8,user_8,16,9,40,3
+sample_40,2026-03-22T18:20:45.697963+00:00,Seeing #babyboo everywhere today.,user_9,user_9,18,12,45,4
+sample_41,2026-03-22T18:15:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_0,user_0,0,0,0,0
+sample_42,2026-03-22T18:10:45.697963+00:00,People keep talking about #babyboo.,user_1,user_1,2,3,5,1
+sample_43,2026-03-22T18:05:45.697963+00:00,#babyboo opinions are getting intense online.,user_2,user_2,4,6,10,2
+sample_44,2026-03-22T18:00:45.697963+00:00,#babyboo might be the next big trend.,user_3,user_3,6,9,15,3
+sample_45,2026-03-22T17:55:45.697963+00:00,Seeing #babyboo everywhere today.,user_4,user_4,8,12,20,4
+sample_46,2026-03-22T17:50:45.697963+00:00,#babyboo This topic is gaining attention fast.,user_5,user_5,10,0,25,0
+sample_47,2026-03-22T17:45:45.697963+00:00,People keep talking about #babyboo.,user_6,user_6,12,3,30,1
+sample_48,2026-03-22T17:40:45.697963+00:00,#babyboo opinions are getting intense online.,user_7,user_7,14,6,35,2
+sample_49,2026-03-22T17:35:45.697963+00:00,#babyboo might be the next big trend.,user_8,user_8,16,9,40,3
+sample_50,2026-03-22T17:30:45.697963+00:00,Seeing #babyboo everywhere today.,user_9,user_9,18,12,45,4
