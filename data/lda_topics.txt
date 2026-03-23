@@ -1,0 +1,8 @@
+LDA Topics (3 topics, trained on 20 tweets)
+============================================================
+
+Topic 0: online(0.48), intense(0.48), fast(0.02), attention(0.02), gaining(0.02)
+
+Topic 1: attention(0.33), gaining(0.33), fast(0.33), intense(0.01), online(0.01)
+
+Topic 2: intense(0.20), gaining(0.20), fast(0.20), online(0.20), attention(0.20)
