@@ -46,29 +46,28 @@ If you are using a virtual environment, activate it first before installing the 
 
 ## How to Run
 
-### 1. Run the Streamlit application
-```bash
-streamlit run app.py
-```
-
-### 2. Run the data collection module
+### 1. Run the data collection module
 ```bash
 python collector.py
 ```
 
-### 3. Run topic modelling
+### 2. Run topic modelling
 ```bash
 python topic_model.py
 ```
 
-### 4. Run network analysis
+### 3. Run network analysis
 ```bash
 python network.py
 ```
 
-### 5. Run machine learning evaluation
+### 4. Run machine learning evaluation
 ```bash
 python ml_model.py
+```
+### 5. Run the Streamlit application
+```bash
+python -m streamlit run app.py
 ```
 
 ## Project Structure
